@@ -1,0 +1,16 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	"pattern" : [
+		"X X",
+    	"XXX",
+		"XXX"
+	],
+	"key" : {
+    	"X" : {
+      		"tag" : "minecraft:stone_tool_materials"
+    	}
+  	},
+  	"result" : {
+    	"item" : "two:stone_chestplate"
+  	}
+}

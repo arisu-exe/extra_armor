@@ -1,0 +1,191 @@
+{
+  "item.extra_armor.chainmail_horse_armor" : "Chainmail Horse Armor",
+  "item.extra_armor.netherite_horse_armor" : "Netherite Horse Armor",
+  "item.extra_armor.emerald_horse_armor" : "Emerald Horse Armor",
+  "item.extra_armor.stone_horse_armor" : "Stone Horse Armor",
+
+  "item.extra_armor.oak_horse_armor" : "Oak Horse Armor",
+  "item.extra_armor.spruce_horse_armor" : "Spruce Horse Armor",
+  "item.extra_armor.birch_horse_armor" : "Birch Horse Armor",
+  "item.extra_armor.jungle_horse_armor" : "Jungle Horse Armor",
+  "item.extra_armor.acacia_horse_armor" : "Acacia Horse Armor",
+  "item.extra_armor.dark_oak_horse_armor" : "Dark Oak Horse Armor",
+  "item.extra_armor.crimson_horse_armor" : "Crimson Horse Armor",
+  "item.extra_armor.warped_horse_armor" : "Warped Horse Armor",
+
+  "item.extra_armor.white_woolen_horse_armor" : "White Woolen Horse Armor",
+  "item.extra_armor.orange_woolen_horse_armor" : "Orange Woolen Horse Armor",
+  "item.extra_armor.magenta_woolen_horse_armor" : "Magenta Woolen Horse Armor",
+  "item.extra_armor.light_blue_woolen_horse_armor" : "Light Blue Woolen Horse Armor",
+  "item.extra_armor.yellow_woolen_horse_armor" : "Yellow Woolen Horse Armor",
+  "item.extra_armor.lime_woolen_horse_armor" : "Lime Woolen Horse Armor",
+  "item.extra_armor.pink_woolen_horse_armor" : "Pink Woolen Horse Armor",
+  "item.extra_armor.gray_woolen_horse_armor" : "Gray Woolen Horse Armor",
+  "item.extra_armor.light_gray_woolen_horse_armor" : "Light Gray Woolen Horse Armor",
+  "item.extra_armor.cyan_woolen_horse_armor" : "Cyan Woolen Horse Armor",
+  "item.extra_armor.purple_woolen_horse_armor" : "Purple Woolen Horse Armor",
+  "item.extra_armor.blue_woolen_horse_armor" : "Blue Woolen Horse Armor",
+  "item.extra_armor.brown_woolen_horse_armor" : "Brown Woolen Horse Armor",
+  "item.extra_armor.green_woolen_horse_armor" : "Green Woolen Horse Armor",
+  "item.extra_armor.red_woolen_horse_armor" : "Red Woolen Horse Armor",
+  "item.extra_armor.black_woolen_horse_armor" : "Black Woolen Horse Armor",
+  "item.extra_armor.sponge_horse_armor" : "Sponge Horse Armor",
+  "item.extra_armor.glowstone_horse_armor" : "Glowstone Horse Armor",
+  "item.extra_armor.obsidian_horse_armor" : "Obsidian Horse Armor",
+
+  "item.extra_armor.emerald_helmet" : "Emerald Helmet",
+  "item.extra_armor.emerald_chestplate" : "Emerald Chestplate",
+  "item.extra_armor.emerald_leggings" : "Emerald Leggings",
+  "item.extra_armor.emerald_boots" : "Emerald Boots",
+
+  "item.extra_armor.stone_helmet" : "Stone Helmet",
+  "item.extra_armor.stone_chestplate" : "Stone Chestplate",
+  "item.extra_armor.stone_leggings" : "Stone Leggings",
+  "item.extra_armor.stone_boots" : "Stone Boots",
+
+  "item.extra_armor.oak_helmet" : "Oak Helmet",
+  "item.extra_armor.oak_chestplate" : "Oak Chestplate",
+  "item.extra_armor.oak_leggings" : "Oak Leggings",
+  "item.extra_armor.oak_boots" : "Oak Boots",
+
+  "item.extra_armor.spruce_helmet" : "Spruce Helmet",
+  "item.extra_armor.spruce_chestplate" : "Spruce Chestplate",
+  "item.extra_armor.spruce_leggings" : "Spruce Leggings",
+  "item.extra_armor.spruce_boots" : "Spruce Boots",
+
+  "item.extra_armor.birch_helmet" : "Birch Helmet",
+  "item.extra_armor.birch_chestplate" : "Birch Chestplate",
+  "item.extra_armor.birch_leggings" : "Birch Leggings",
+  "item.extra_armor.birch_boots" : "Birch Boots",
+
+  "item.extra_armor.jungle_helmet" : "Jungle Helmet",
+  "item.extra_armor.jungle_chestplate" : "Jungle Chestplate",
+  "item.extra_armor.jungle_leggings" : "Jungle Leggings",
+  "item.extra_armor.jungle_boots" : "Jungle Boots",
+
+  "item.extra_armor.acacia_helmet" : "Acacia Helmet",
+  "item.extra_armor.acacia_chestplate" : "Acacia Chestplate",
+  "item.extra_armor.acacia_leggings" : "Acacia Leggings",
+  "item.extra_armor.acacia_boots" : "Acacia Boots",
+
+  "item.extra_armor.dark_oak_helmet" : "Dark Oak Helmet",
+  "item.extra_armor.dark_oak_chestplate" : "Dark Oak Chestplate",
+  "item.extra_armor.dark_oak_leggings" : "Dark Oak Leggings",
+  "item.extra_armor.dark_oak_boots" : "Dark Oak Boots",
+
+  "item.extra_armor.crimson_helmet" : "Crimson Helmet",
+  "item.extra_armor.crimson_chestplate" : "Crimson Chestplate",
+  "item.extra_armor.crimson_leggings" : "Crimson Leggings",
+  "item.extra_armor.crimson_boots" : "Crimson Boots",
+
+  "item.extra_armor.warped_helmet" : "Warped Helmet",
+  "item.extra_armor.warped_chestplate" : "Warped Chestplate",
+  "item.extra_armor.warped_leggings" : "Warped Leggings",
+  "item.extra_armor.warped_boots" : "Warped Boots",
+
+  "item.extra_armor.white_woolen_helmet" : "White Woolen Cap",
+  "item.extra_armor.white_woolen_chestplate" : "White Woolen Tunic",
+  "item.extra_armor.white_woolen_leggings" : "White Woolen Pants",
+  "item.extra_armor.white_woolen_boots" : "White Woolen Boots",
+
+  "item.extra_armor.orange_woolen_helmet" : "Orange Woolen Cap",
+  "item.extra_armor.orange_woolen_chestplate" : "Orange Woolen Tunic",
+  "item.extra_armor.orange_woolen_leggings" : "Orange Woolen Pants",
+  "item.extra_armor.orange_woolen_boots" : "Orange Woolen Boots",
+
+  "item.extra_armor.magenta_woolen_helmet" : "Magenta Woolen Cap",
+  "item.extra_armor.magenta_woolen_chestplate" : "Magenta Woolen Tunic",
+  "item.extra_armor.magenta_woolen_leggings" : "Magenta Woolen Pants",
+  "item.extra_armor.magenta_woolen_boots" : "Magenta Woolen Boots",
+
+  "item.extra_armor.light_blue_woolen_helmet" : "Light Blue Woolen Cap",
+  "item.extra_armor.light_blue_woolen_chestplate" : "Light Blue Woolen Tunic",
+  "item.extra_armor.light_blue_woolen_leggings" : "Light Blue Woolen Pants",
+  "item.extra_armor.light_blue_woolen_boots" : "Light Blue Woolen Boots",
+
+  "item.extra_armor.yellow_woolen_helmet" : "Yellow Woolen Cap",
+  "item.extra_armor.yellow_woolen_chestplate" : "Yellow Woolen Tunic",
+  "item.extra_armor.yellow_woolen_leggings" : "Yellow Woolen Pants",
+  "item.extra_armor.yellow_woolen_boots" : "Yellow Woolen Boots",
+
+  "item.extra_armor.lime_woolen_helmet" : "Lime Woolen Cap",
+  "item.extra_armor.lime_woolen_chestplate" : "Lime Woolen Tunic",
+  "item.extra_armor.lime_woolen_leggings" : "Lime Woolen Pants",
+  "item.extra_armor.lime_woolen_boots" : "Lime Woolen Boots",
+
+  "item.extra_armor.pink_woolen_helmet" : "Pink Woolen Cap",
+  "item.extra_armor.pink_woolen_chestplate" : "Pink Woolen Tunic",
+  "item.extra_armor.pink_woolen_leggings" : "Pink Woolen Pants",
+  "item.extra_armor.pink_woolen_boots" : "Pink Woolen Boots",
+
+  "item.extra_armor.gray_woolen_helmet" : "Gray Woolen Cap",
+  "item.extra_armor.gray_woolen_chestplate" : "Gray Woolen Tunic",
+  "item.extra_armor.gray_woolen_leggings" : "Gray Woolen Pants",
+  "item.extra_armor.gray_woolen_boots" : "Gray Woolen Boots",
+
+  "item.extra_armor.light_gray_woolen_helmet" : "Light Gray Woolen Cap",
+  "item.extra_armor.light_gray_woolen_chestplate" : "Light Gray Woolen Tunic",
+  "item.extra_armor.light_gray_woolen_leggings" : "Light Gray Woolen Pants",
+  "item.extra_armor.light_gray_woolen_boots" : "Light Gray Woolen Boots",
+
+  "item.extra_armor.cyan_woolen_helmet" : "Cyan Woolen Cap",
+  "item.extra_armor.cyan_woolen_chestplate" : "Cyan Woolen Tunic",
+  "item.extra_armor.cyan_woolen_leggings" : "Cyan Woolen Pants",
+  "item.extra_armor.cyan_woolen_boots" : "Cyan Woolen Boots",
+
+  "item.extra_armor.purple_woolen_helmet" : "Purple Woolen Cap",
+  "item.extra_armor.purple_woolen_chestplate" : "Purple Woolen Tunic",
+  "item.extra_armor.purple_woolen_leggings" : "Purple Woolen Pants",
+  "item.extra_armor.purple_woolen_boots" : "Purple Woolen Boots",
+
+  "item.extra_armor.blue_woolen_helmet" : "Blue Woolen Cap",
+  "item.extra_armor.blue_woolen_chestplate" : "Blue Woolen Tunic",
+  "item.extra_armor.blue_woolen_leggings" : "Blue Woolen Pants",
+  "item.extra_armor.blue_woolen_boots" : "Blue Woolen Boots",
+
+  "item.extra_armor.brown_woolen_helmet" : "Brown Woolen Cap",
+  "item.extra_armor.brown_woolen_chestplate" : "Brown Woolen Tunic",
+  "item.extra_armor.brown_woolen_leggings" : "Brown Woolen Pants",
+  "item.extra_armor.brown_woolen_boots" : "Brown Woolen Boots",
+
+  "item.extra_armor.green_woolen_helmet" : "Green Woolen Cap",
+  "item.extra_armor.green_woolen_chestplate" : "Green Woolen Tunic",
+  "item.extra_armor.green_woolen_leggings" : "Green Woolen Pants",
+  "item.extra_armor.green_woolen_boots" : "Green Woolen Boots",
+
+  "item.extra_armor.red_woolen_helmet" : "Red Woolen Cap",
+  "item.extra_armor.red_woolen_chestplate" : "Red Woolen Tunic",
+  "item.extra_armor.red_woolen_leggings" : "Red Woolen Pants",
+  "item.extra_armor.red_woolen_boots" : "Red Woolen Boots",
+
+  "item.extra_armor.black_woolen_helmet" : "Black Woolen Cap",
+  "item.extra_armor.black_woolen_chestplate" : "Black Woolen Tunic",
+  "item.extra_armor.black_woolen_leggings" : "Black Woolen Pants",
+  "item.extra_armor.black_woolen_boots" : "Black Woolen Boots",
+
+  "item.extra_armor.sponge_helmet" : "Sponge Helmet",
+  "item.extra_armor.sponge_chestplate" : "Sponge Chestplate",
+  "item.extra_armor.sponge_leggings" : "Sponge Leggings",
+  "item.extra_armor.sponge_boots" : "Sponge Boots",
+
+  "item.extra_armor.glowstone_helmet" : "Glowstone Helmet",
+  "item.extra_armor.glowstone_chestplate" : "Glowstone Chestplate",
+  "item.extra_armor.glowstone_leggings" : "Glowstone Leggings",
+  "item.extra_armor.glowstone_boots" : "Glowstone Boots",
+
+  "item.extra_armor.obsidian_helmet" : "Obsidian Helmet",
+  "item.extra_armor.obsidian_chestplate" : "Obsidian Chestplate",
+  "item.extra_armor.obsidian_leggings" : "Obsidian Leggings",
+  "item.extra_armor.obsidian_boots" : "Obsidian Boots",
+
+
+
+  "subtitles.item.armor.equip_emerald" : "Emerald armor blings",
+  "subtitles.item.armor.equip_stone" : "Stone armor scrapes",
+  "subtitles.item.armor.equip_wood" : "Wooden armor plats",
+  "subtitles.item.armor.equip_fungus" : "Fungal armor crinkles",
+  "subtitles.item.armor.equip_wool" : "Woolen armor plofs",
+  "subtitles.item.armor.equip_sponge" : "Sponge armor squishes",
+  "subtitles.item.armor.equip_glowstone" : "Glowstone armor shines",
+  "subtitles.item.armor.equip_obsidian" : "Obsidian armor scratches"
+}

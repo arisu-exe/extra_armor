@@ -1,0 +1,51 @@
+{
+  "item.armor.equip_stone" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_stone",
+    "sounds" : [
+      "two:item/armor/equip_stone"
+    ]
+  },
+  "item.armor.equip_wood" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_wood",
+    "sounds" : [
+      "two:item/armor/equip_wood"
+    ]
+  },
+  "item.armor.equip_fungus" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_fungus",
+    "sounds" : [
+      "two:item/armor/equip_fungus"
+    ]
+  },
+  "item.armor.equip_wool" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_wool",
+    "sounds" : [
+      "two:item/armor/equip_wool"
+    ]
+  },
+  "item.armor.equip_sponge" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_sponge",
+    "sounds" : [
+      "two:item/armor/equip_sponge"
+    ]
+  },
+  "item.armor.equip_glowstone" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_glowstone",
+    "sounds" : [
+      "two:item/armor/equip_glowstone"
+    ]
+  },
+  "item.armor.equip_obsidian" : {
+    "category" : "item",
+    "subtitle" : "subtitles.item.armor.equip_obsidian",
+    "sounds" : [
+      "two:item/armor/equip_obsidian"
+    ]
+  }
+}
